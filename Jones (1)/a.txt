@@ -1,0 +1,3 @@
+Comparando os arquivos A\OUTPUT\4.txt e A\TEMP\4.TXT
+FC: nenhuma diferença encontrada
+
